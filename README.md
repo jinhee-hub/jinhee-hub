@@ -1,7 +1,9 @@
 ### Hi there 👋  I'm Jinhee Lee 🐹
 
-!--
-
+---
+- M.S. in Computer Science and Engineering, Artificial Intelligence
+- M.S. in Aerospace System Engineering, Propulsion
+- B.S. in Aerospace Engineering
 
 👽 Contact
 
