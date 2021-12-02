@@ -4,6 +4,8 @@
 #### Looking for a ML & DL Researcher/Engineer position
 - I ♥️ Computer Vision
 
+<br/>
+
 💻 Tech Stack
 
 <div>     
