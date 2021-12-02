@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there! I'm Jinhee Lee 🐹
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jinny6876@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 
-My name is JinheeLee who is an AI researcher/Engineer 
+
 
 <!--
 **jinhee-hub/jinhee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
