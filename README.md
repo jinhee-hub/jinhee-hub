@@ -1,8 +1,8 @@
 ### Hi there 👋  I'm Jinhee Lee 🐹
 
 ---
-#### Machine Learning & Deep Learning Researcher/Engineer
-- Computer Vision♥️
+#### Looking for a ML & DL Researcher/Engineer position
+- I ♥️ Computer Vision
 
 💻 Tech Stack
 
