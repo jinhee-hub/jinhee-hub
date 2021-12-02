@@ -1,9 +1,17 @@
 ### Hi there 👋  I'm Jinhee Lee 🐹
 
 ---
-#Machine Learning & Deep Learning Researcher/Engineer
-- Currently interested in Computer Vision♥️
+##Machine Learning & Deep Learning Researcher/Engineer
+- Computer Vision♥️
 
+💻 Tech Stack
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+</div>
 👽 Contact
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jinny6876@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
