@@ -3,7 +3,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jinny6876@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JinheeLee%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=Waving&text=%20Jinhee Lee%20%20&height=200&fontSize=100)
 
 My name is JinheeLee who is an AI researcher/Engineer 
 
