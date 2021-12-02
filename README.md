@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white">   
 <div>  
 
-   
+<br/>
+  
 👽 Contact
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jinny6876@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
