@@ -6,8 +6,7 @@
 
 💻 Tech Stack
 
-<div>
-  Languages      
+<div>     
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c++%2B%2B&logoColor=white">  
@@ -15,8 +14,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c++%2B%2B&logoColor=white">  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic&logo=sklearn%2B%2B&logoColor=white">  
 <div>
   
 👽 Contact
