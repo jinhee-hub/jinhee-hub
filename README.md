@@ -18,7 +18,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/sklearn-F7931E?style=plastic&logo=scikit-learn%2B%2B&logoColor=white">  
 <div>
   
