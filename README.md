@@ -3,6 +3,7 @@
 ---
 #### Looking for a junior or an entry-level ML & DL Researcher/Engineer position
 - I ♥️ Computer Vision
+- Self-motivated 💪
 
 <br/>
 
