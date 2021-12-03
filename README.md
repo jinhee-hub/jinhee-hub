@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Jinhee Lee 🐹
 
 ---
-#### Looking for a junior or entry-level ML & DL Researcher/Engineer job position
+#### Looking for a junior or an entry-level ML & DL Researcher/Engineer job position
 - I ♥️ Computer Vision
 
 <br/>
