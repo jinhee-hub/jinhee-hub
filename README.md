@@ -1,5 +1,7 @@
 ### Hi there 👋  I'm Jinhee Lee 🐹
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhee-hub&count_bg=%238045FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ---
 #### Looking for a junior or an entry-level ML & DL Researcher/Engineer position + Ph.d grad school 
 - I ♥️ Computer Vision
@@ -32,7 +34,6 @@
   
 👽 Contact
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhee-hub&count_bg=%238045FD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jinny6876@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 <a href="https://bit.ly/3xObL21" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 
