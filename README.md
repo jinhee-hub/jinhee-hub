@@ -22,7 +22,8 @@
 <div>
   
 <div>
-  <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white">   
+  <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white">  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Androidstudio&logoColor=white">  
 <div>  
 
 <br/>
